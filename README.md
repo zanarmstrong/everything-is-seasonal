@@ -2,6 +2,8 @@
 
 This github repo is designed as a place to store/reference the data, code, and sources behind my 'Everything is Seasonal' talk at OpenVisConf. 
 
+[Presentation](https://slides.com/zanarmstrong/everything-is-seasonal)
+
 ## Summary
 
 If your data includes change over time, take seasonality into account.
@@ -29,7 +31,9 @@ Assume that your metric has a seasonal cycle.
 ![](http://2.bp.blogspot.com/-EmqnkfLkz48/VBDAnBtrU6I/AAAAAAAAYiU/w23tbIXCCTE/s1600/image00.png)
 
 [Google Blog Post](http://google-opensource.blogspot.com/2014/09/causalimpact-new-open-source-package.html) describing Kay H. Brodersen's Causal Impact package
+
 [Causal Impact R package](https://google.github.io/CausalImpact/CausalImpact.html)
+
 [Inferring causal impact using Bayesian structural time-series models](http://research.google.com/pubs/pub41854.html)
 
 Kim Larsen, of the Stitch Fix technology team, wrote a blog post describing their implementation of these methods: [Making Causal Impact Analysis Easy](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
@@ -49,7 +53,7 @@ Daily data from [Google's Big Query sample data](https://bigquery.cloud.google.c
 
 Hourly data [source]().
 
-###### Additional charts/analysis. 
+##### Additional charts/analysis. 
 [Aki on Gelman's blog](http://andrewgelman.com/2012/06/19/slick-time-series-decomposition-of-the-birthdays-data/).
 [Chris Mulligan shared on Gelman's blog](http://andrewgelman.com/2012/06/12/simple-graph-win-the-example-of-birthday-frequencies/) and [Chris' work as he presents it](http://chmullig.com/2012/06/births-by-day-of-year/).
 
