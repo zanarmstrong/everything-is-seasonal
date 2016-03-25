@@ -18,6 +18,22 @@ Assume that your metric has a seasonal cycle.
 4. 
 5. 
 
+## Analysis Tools
+
+##### De-seaonalizing data
+
+##### Decomposing a time series with STL
+
+##### Bayes Impact Analysis with the R package CausalImpact
+
+![](http://2.bp.blogspot.com/-EmqnkfLkz48/VBDAnBtrU6I/AAAAAAAAYiU/w23tbIXCCTE/s1600/image00.png)
+
+[Google Blog Post](http://google-opensource.blogspot.com/2014/09/causalimpact-new-open-source-package.html) describing Kay H. Brodersen's Causal Impact package
+[Causal Impact R package](https://google.github.io/CausalImpact/CausalImpact.html)
+[Inferring causal impact using Bayesian structural time-series models](http://research.google.com/pubs/pub41854.html)
+
+Kim Larsen, of the Stitch Fix technology team, wrote a blog post describing their implementation of these methods: [Making Causal Impact Analysis Easy](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
+
 ## Data
 
 ##### C02 data
