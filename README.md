@@ -2,7 +2,9 @@
 
 This github repo is designed as a place to store/reference the data, code, and sources behind my 'Everything is Seasonal' talk at OpenVisConf. 
 
-[Presentation](https://slides.com/zanarmstrong/everything-is-seasonal)
+The presentation itself can be found [here](https://slides.com/zanarmstrong/everything-is-seasonal)
+
+[create an anchor](#summary)
 
 ## Summary
 
@@ -79,6 +81,9 @@ By Eirik Solheim: [One Year in One Image](http://eirikso.com/2011/01/04/one-year
 
 ![One year in One Image](https://eirikso.files.wordpress.com/2011/01/allof20101.jpg)
 ![Image Diversity](https://eirikso.files.wordpress.com/2011/01/oneyeardiversity1.jpg)
+
+Mauna Loa Observatory(http://www.ncdc.noaa.gov/wdc/)
+![Mauna Loa Observatory](http://www.ncdc.noaa.gov/wdc/images/CRNSiteinMaunaLoa.JPG)
 
 
 Other images are from [Pixabay](https://pixabay.com/). "All images and videos on Pixabay are released free of copyrights under Creative Commons CC0. You may download, modify, distribute, and use them royalty-free for anything you like, even in commercial applications. Attribution is not required."
