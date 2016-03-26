@@ -4,8 +4,6 @@ This github repo is designed as a place to store/reference the data, code, and s
 
 The presentation itself can be found [here](https://slides.com/zanarmstrong/everything-is-seasonal)
 
-[create an anchor](#summary)
-
 ## Summary
 
 If your data includes change over time, take seasonality into account.
