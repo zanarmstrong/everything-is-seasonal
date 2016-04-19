@@ -25,7 +25,7 @@ Assume that your metric has a seasonal cycle.
 
 Introduction to [Time Series Decomposition](https://www.otexts.org/fpp/6)
 
-##### De-seasonalizing data with X-12 ARIMA
+#### De-seasonalizing data with X-12 ARIMA
 
 [Seasonal package in R](https://cran.r-project.org/web/packages/seasonal/vignettes/seas.pdf)
 
@@ -33,7 +33,7 @@ Introduction to [Time Series Decomposition](https://www.otexts.org/fpp/6)
 
 [Online interactive](http://www.seasonal.website/) seasonal adjustment with R's seaonal package
 
-##### Decomposing a time series with STL
+#### Decomposing a time series with STL
 
 [Original 1990 article](http://www.wessa.net/download/stl.pdf) on STL decomposition. 
 
@@ -41,7 +41,7 @@ Introduction to [Time Series Decomposition](https://www.otexts.org/fpp/6)
 
 [STL in R](http://www.inside-r.org/r-doc/stats/stl). Note that STL operates on an object of the "ts", or time series" class. So, you'll need to convert data to this format first. 
 
-##### Bayes Impact Analysis with the R package CausalImpact
+#### Bayes Impact Analysis with the R package CausalImpact
 
 ![](http://2.bp.blogspot.com/-EmqnkfLkz48/VBDAnBtrU6I/AAAAAAAAYiU/w23tbIXCCTE/s1600/image00.png)
 
@@ -53,7 +53,7 @@ Introduction to [Time Series Decomposition](https://www.otexts.org/fpp/6)
 
 Kim Larsen, of the Stitch Fix technology team, wrote a blog post describing their implementation of these methods: [Making Causal Impact Analysis Easy](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
 
-##### More general Timeseries, Forecasting, and R
+#### More general Timeseries, Forecasting, and R
 
 Check out [Hyndman's work](http://robjhyndman.com/hyndsight/forecasting/)
 
@@ -62,22 +62,22 @@ The curves/functions/components that drive machine learning might also have seas
 
 ## Data
 
-##### C02 data
+#### C02 data
 C02 data at Mauna Loa, Hawaii observatory. [Source](http://www.esrl.noaa.gov/gmd/dv/data/index.php?parameter_name=Carbon%2BDioxide&frequency=Daily%2BAverages&site=MLO). Filename: c02-maunaloa.
 
-##### Births
+#### Births
 Daily data from [Google's Big Query sample data](https://bigquery.cloud.google.com/table/publicdata:samples.natality). Based on data from the [CDC](http://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm).
 
 [CDC Vital Stats](https://nchs.beyond2020.com/Vitalstats) for minute of day data - see "babies Time of Day" folder for details
 
-##### Faked Restaurant Time Series
+#### Faked Restaurant Time Series
 
-##### Gun Sales Data
+#### Gun Sales Data
 
 
 Hourly data [source]().
 
-##### Additional charts/analysis. 
+#### Additional charts/analysis. 
 [Aki on Gelman's blog](http://andrewgelman.com/2012/06/19/slick-time-series-decomposition-of-the-birthdays-data/).
 [Chris Mulligan shared on Gelman's blog](http://andrewgelman.com/2012/06/12/simple-graph-win-the-example-of-birthday-frequencies/) and [Chris' work as he presents it](http://chmullig.com/2012/06/births-by-day-of-year/).
 
