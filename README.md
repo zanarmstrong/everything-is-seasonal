@@ -12,19 +12,34 @@ Seaonality are patterns that repeat over known, fixed periods of time [-Wikipedi
 
 Assume that your metric has a seasonal cycle. 
 
-## 5 recommendations
+## 6 recommendations
 
 1. Consider the seasonality of causal factors
-2. 
-3. 
-4. 
-5. 
+2. Aggregate to time periods that make sense for your data
+3. Sometimes seasonality is the story
+4. Adust for seasonality when estimating the impact of an event ('causal analysis')
+5. The seasonality that matters most might be in a subset of your data
+6. Seaonal patterns vary by place, culture, and lifestyle
 
 ## Analysis Tools
 
-##### De-seaonalizing data
+Introduction to [Time Series Decomposition](https://www.otexts.org/fpp/6)
+
+##### De-seasonalizing data with X-12 ARIMA
+
+[Seasonal package in R](https://cran.r-project.org/web/packages/seasonal/vignettes/seas.pdf)
+
+[Blog post](http://www.r-bloggers.com/new-online-tool-for-seasonal-adjustment/) about seasonal adjustment with this package
+
+[Online interactive](http://www.seasonal.website/) seasonal adjustment with R's seaonal package
 
 ##### Decomposing a time series with STL
+
+[Original 1990 article](http://www.wessa.net/download/stl.pdf) on STL decomposition. 
+
+[Intro to STL](https://www.otexts.org/fpp/6/5)
+
+[STL in R](http://www.inside-r.org/r-doc/stats/stl). Note that STL operates on an object of the "ts", or time series" class. So, you'll need to convert data to this format first. 
 
 ##### Bayes Impact Analysis with the R package CausalImpact
 
@@ -38,6 +53,13 @@ Assume that your metric has a seasonal cycle.
 
 Kim Larsen, of the Stitch Fix technology team, wrote a blog post describing their implementation of these methods: [Making Causal Impact Analysis Easy](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
 
+##### More general Timeseries, Forecasting, and R
+
+Check out [Hyndman's work](http://robjhyndman.com/hyndsight/forecasting/)
+
+[Analyzing Functional Time Series](https://journal.r-project.org/archive/2013-1/shang.pdf)
+The curves/functions/components that drive machine learning might also have seasonality. "Recent advances in computer recording and storing technology have tremendously increased the presence of functional data, whose graphical representation can be infinite-dimensional curve, image, or shape. When the same functional object is observed over a period of time, such data are known as functional time series."
+
 ## Data
 
 ##### C02 data
@@ -45,6 +67,8 @@ C02 data at Mauna Loa, Hawaii observatory. [Source](http://www.esrl.noaa.gov/gmd
 
 ##### Births
 Daily data from [Google's Big Query sample data](https://bigquery.cloud.google.com/table/publicdata:samples.natality). Based on data from the [CDC](http://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm).
+
+[CDC Vital Stats](https://nchs.beyond2020.com/Vitalstats) for minute of day data - see "babies Time of Day" folder for details
 
 ##### Faked Restaurant Time Series
 
@@ -70,8 +94,6 @@ Hourly data [source]().
 Techniques for Visualizing Seaonality data
 
 [Cycle Plots](https://books.google.com/books?id=YnDivwba2nkC&pg=PA176&lpg=PA176&dq=seasonal+visualization&source=bl&ots=7nkZ7BFZto&sig=M8ywiSChDqIoFdiFuWdDnrSB9Dg&hl=en&sa=X&ved=0ahUKEwikvfCF8t7LAhUX_mMKHamwBLA4ChDoAQgnMAI#v=onepage&q=seasonal%20visualization&f=false)
-
-[]
 
 ## Data Viz Examples
 
