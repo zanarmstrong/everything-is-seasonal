@@ -68,17 +68,12 @@ C02 data at Mauna Loa, Hawaii observatory. [Source](http://www.esrl.noaa.gov/gmd
 #### Births
 Daily data from [Google's Big Query sample data](https://bigquery.cloud.google.com/table/publicdata:samples.natality). Based on data from the [CDC](http://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm).
 
-[CDC Vital Stats](https://nchs.beyond2020.com/Vitalstats) for minute of day data - see "babies Time of Day" folder for details
-
-#### Faked Restaurant Time Series
+[CDC Vital Stats](https://nchs.beyond2020.com/Vitalstats) for minute of day data - see [here](https://github.com/zanarmstrong/everything-is-seasonal/blob/master/babiesTimeOfDay/replicate.md) for details to replicate
 
 #### Gun Sales Data
 Described [here](http://driven-by-data.net/2015/12/10/gun-sales.html)
 
-
-Hourly data [source]().
-
-#### Additional charts/analysis. 
+#### Additional charts/analysis related to births and birthdays 
 [Aki on Gelman's blog](http://andrewgelman.com/2012/06/19/slick-time-series-decomposition-of-the-birthdays-data/).
 [Chris Mulligan shared on Gelman's blog](http://andrewgelman.com/2012/06/12/simple-graph-win-the-example-of-birthday-frequencies/) and [Chris' work as he presents it](http://chmullig.com/2012/06/births-by-day-of-year/).
 
@@ -88,13 +83,13 @@ Hourly data [source]().
 
 [1985 Tractor Accident Study](http://www.pnas.org/content/108/17/6889.full)
 
-[Prison Sentences](http://www.pnas.org/content/108/17/6889.full)
+[Prison Sentences](http://www.pnas.org/content/108/17/6889.full) - not included in presentation as data was about # of cases a judge reviewed since previous break, but there is a relationship to time of day. In short, if you're going up for parole, hope that your case is first thing in the morning or right after a snack/lunch break.
 
-[Pathogen seasonality](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631809/pdf/11384511.pdf)
+[Pathogen seasonality](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631809/pdf/11384511.pdf) - also not included in presentation, but shows seasonality for different illnesses
 
-Techniques for Visualizing Seaonality data
+Some Techniques for Visualizing Seaonality data
 
-[Cycle Plots](https://books.google.com/books?id=YnDivwba2nkC&pg=PA176&lpg=PA176&dq=seasonal+visualization&source=bl&ots=7nkZ7BFZto&sig=M8ywiSChDqIoFdiFuWdDnrSB9Dg&hl=en&sa=X&ved=0ahUKEwikvfCF8t7LAhUX_mMKHamwBLA4ChDoAQgnMAI#v=onepage&q=seasonal%20visualization&f=false)
+[Cycle Plots](https://books.google.com/books?id=YnDivwba2nkC&pg=PA176&lpg=PA176&dq=seasonal+visualization&source=bl&ots=7nkZ7BFZto&sig=M8ywiSChDqIoFdiFuWdDnrSB9Dg&hl=en&sa=X&ved=0ahUKEwikvfCF8t7LAhUX_mMKHamwBLA4ChDoAQgnMAI#v=onepage&q=seasonal%20visualization&f=false) 
 
 ## Data Viz Examples
 
@@ -107,6 +102,8 @@ Techniques for Visualizing Seaonality data
 [20 hours of Boston Traffic](https://www.youtube.com/watch?v=QW_mVsMWnB0) by Andy Woodruff using a script from Alyson Hurt. Project and analysis described [by Andy on his blog](http://bostonography.com/2016/a-day-of-traffic/).
 
 [Gun Sales Soar After Obama Calls for New Restrictions](http://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html?_r=0). Gregor describes the process and source data [on his blog](http://driven-by-data.net/2015/12/10/gun-sales.html). 
+
+[Why People Visit the Emergency Room](http://flowingdata.com/2016/02/09/why-people-visit-the-emergency-room/) by Nathan Yau of [FlowingData](http://flowingdata.com/)
 
 ...
 
