@@ -59,6 +59,20 @@ Hourly data [source]().
 
 ### 
 
+## Research
+
+[1985 Tractor Accident Study](http://www.pnas.org/content/108/17/6889.full)
+
+[Prison Sentences](http://www.pnas.org/content/108/17/6889.full)
+
+[Pathogen seasonality](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631809/pdf/11384511.pdf)
+
+Techniques for Visualizing Seaonality data
+
+[Cycle Plots](https://books.google.com/books?id=YnDivwba2nkC&pg=PA176&lpg=PA176&dq=seasonal+visualization&source=bl&ots=7nkZ7BFZto&sig=M8ywiSChDqIoFdiFuWdDnrSB9Dg&hl=en&sa=X&ved=0ahUKEwikvfCF8t7LAhUX_mMKHamwBLA4ChDoAQgnMAI#v=onepage&q=seasonal%20visualization&f=false)
+
+[]
+
 ## Data Viz Examples
 
 [Flickr Flow by Fernanda Viégas and Martin Wattenberg](http://hint.fm/projects/flickr/)
@@ -85,3 +99,10 @@ Mauna Loa Observatory(http://www.ncdc.noaa.gov/wdc/)
 
 
 Other images are from [Pixabay](https://pixabay.com/). "All images and videos on Pixabay are released free of copyrights under Creative Commons CC0. You may download, modify, distribute, and use them royalty-free for anything you like, even in commercial applications. Attribution is not required."
+
+## Other Interesting Sources Related to Seasonality
+
+[Flight delays and cancelations](http://stat-computing.org/dataexpo/2009/posters/)
+
+[Visualization of Time-Oriented Data](https://books.google.com/books?id=YnDivwba2nkC&pg=PA176&lpg=PA176&dq=seasonal+visualization&source=bl&ots=7nkZ7BFZto&sig=M8ywiSChDqIoFdiFuWdDnrSB9Dg&hl=en&sa=X&ved=0ahUKEwikvfCF8t7LAhUX_mMKHamwBLA4ChDoAQgnMAI#v=onepage&q=seasonal%20visualization&f=false)
+
