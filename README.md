@@ -73,6 +73,7 @@ Daily data from [Google's Big Query sample data](https://bigquery.cloud.google.c
 #### Faked Restaurant Time Series
 
 #### Gun Sales Data
+Described [here](http://driven-by-data.net/2015/12/10/gun-sales.html)
 
 
 Hourly data [source]().
