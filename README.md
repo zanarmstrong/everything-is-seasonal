@@ -27,38 +27,38 @@ Introduction to [Time Series Decomposition](https://www.otexts.org/fpp/6)
 
 ##### De-seasonalizing data with X-12 ARIMA
 
-	[Seasonal package in R](https://cran.r-project.org/web/packages/seasonal/vignettes/seas.pdf)
+[Seasonal package in R](https://cran.r-project.org/web/packages/seasonal/vignettes/seas.pdf)
 
-	[Blog post](http://www.r-bloggers.com/new-online-tool-for-seasonal-adjustment/) about seasonal adjustment with this package
+[Blog post](http://www.r-bloggers.com/new-online-tool-for-seasonal-adjustment/) about seasonal adjustment with this package
 
-	[Online interactive](http://www.seasonal.website/) seasonal adjustment with R's seaonal package
+[Online interactive](http://www.seasonal.website/) seasonal adjustment with R's seaonal package
 
 ##### Decomposing a time series with STL
 
-	[Original 1990 article](http://www.wessa.net/download/stl.pdf) on STL decomposition. 
+[Original 1990 article](http://www.wessa.net/download/stl.pdf) on STL decomposition. 
 
-	[Intro to STL](https://www.otexts.org/fpp/6/5)
+[Intro to STL](https://www.otexts.org/fpp/6/5)
 
-	[STL in R](http://www.inside-r.org/r-doc/stats/stl). Note that STL operates on an object of the "ts", or time series" class. So, you'll need to convert data to this format first. 
+[STL in R](http://www.inside-r.org/r-doc/stats/stl). Note that STL operates on an object of the "ts", or time series" class. So, you'll need to convert data to this format first. 
 
 ##### Bayes Impact Analysis with the R package CausalImpact
 
-	![](http://2.bp.blogspot.com/-EmqnkfLkz48/VBDAnBtrU6I/AAAAAAAAYiU/w23tbIXCCTE/s1600/image00.png)
+![](http://2.bp.blogspot.com/-EmqnkfLkz48/VBDAnBtrU6I/AAAAAAAAYiU/w23tbIXCCTE/s1600/image00.png)
 
-	[Google Blog Post](http://google-opensource.blogspot.com/2014/09/causalimpact-new-open-source-package.html) describing Kay H. Brodersen's Causal Impact package
+[Google Blog Post](http://google-opensource.blogspot.com/2014/09/causalimpact-new-open-source-package.html) describing Kay H. Brodersen's Causal Impact package
 
-	[Causal Impact R package](https://google.github.io/CausalImpact/CausalImpact.html)
+[Causal Impact R package](https://google.github.io/CausalImpact/CausalImpact.html)
 
-	[Inferring causal impact using Bayesian structural time-series models](http://research.google.com/pubs/pub41854.html)
+[Inferring causal impact using Bayesian structural time-series models](http://research.google.com/pubs/pub41854.html)
 
-	Kim Larsen, of the Stitch Fix technology team, wrote a blog post describing their implementation of these methods: [Making Causal Impact Analysis Easy](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
+Kim Larsen, of the Stitch Fix technology team, wrote a blog post describing their implementation of these methods: [Making Causal Impact Analysis Easy](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
 
 ##### More general Timeseries, Forecasting, and R
 
-	Check out [Hyndman's work](http://robjhyndman.com/hyndsight/forecasting/)
+Check out [Hyndman's work](http://robjhyndman.com/hyndsight/forecasting/)
 
-	[Analyzing Functional Time Series](https://journal.r-project.org/archive/2013-1/shang.pdf)
-	The curves/functions/components that drive machine learning might also have seasonality. "Recent advances in computer recording and storing technology have tremendously increased the presence of functional data, whose graphical representation can be infinite-dimensional curve, image, or shape. When the same functional object is observed over a period of time, such data are known as functional time series."
+[Analyzing Functional Time Series](https://journal.r-project.org/archive/2013-1/shang.pdf)
+The curves/functions/components that drive machine learning might also have seasonality. "Recent advances in computer recording and storing technology have tremendously increased the presence of functional data, whose graphical representation can be infinite-dimensional curve, image, or shape. When the same functional object is observed over a period of time, such data are known as functional time series."
 
 ## Data
 
