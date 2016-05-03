@@ -105,6 +105,12 @@ Some Techniques for Visualizing Seaonality data
 
 [Why People Visit the Emergency Room](http://flowingdata.com/2016/02/09/why-people-visit-the-emergency-room/) by Nathan Yau of [FlowingData](http://flowingdata.com/)
 
+[Visualizing MBTA Data](http://mbtaviz.github.io/) by Mike Barry and Brian Card
+
+[Traffic accidents](http://www.visualcinnamon.com/portfolio/traffic-accidents) by Nadieh Bremer
+
+
+
 ...
 
 ## Images
